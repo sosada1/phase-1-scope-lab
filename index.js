@@ -21,3 +21,4 @@ function changeLeastFavoriteCustomer(){
     leastFavoriteCustomer = 'tim';
     return (leastFavoriteCustomer);
 }
+
